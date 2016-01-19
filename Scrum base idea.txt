@@ -1,0 +1,8 @@
+At its root, Scrum is based on a simple idea: whenever you start a
+project, why not regularly check in, see if what you’re doing is heading in
+the right direction, and if it’s actually what people want? And question
+whether there are any ways to improve how you’re doing what you’re doing,
+any ways of doing it better and faster, and what might be keeping you from
+doing that.
+
+That’s what’s called an “Inspect and Adapt” cycle

@@ -1,0 +1,18 @@
+two-week cycles
+
+
+at the end of each cycle, there would be a finished increment of product.
+
+
+
+That
+meant they’d have something working, something that could be shown to
+anyone who cared to look but certainly the stakeholders and, optimally, the
+people who’d actually be using the thing.
+
+In Scrum we call these cycles “Sprints.”
+
+
+At the beginning of each cycle
+there is a meeting to plan the Sprint. The team decides how much work
+they think they can accomplish during the next two weeks.

@@ -1,0 +1,11 @@
+prioritized each requirement
+
+
+But what they need to ask,
+what the Sentinel teams asked, was, what will bring the most value to the
+project? Do those things first.
+
+
+In software development there is a rule, borne
+out by decades of research, that 80 percent of the value in any piece of
+software is in 20 percent of the features.
