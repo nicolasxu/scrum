@@ -1,0 +1,14 @@
+
+J.J. Sutherland ask 3 questions to his team: (regular rituals of Scrum)
+  1. What did you do since the last time we talked?
+	2. What are you going to do before we talk again?
+	3. And what is getting in your way? (Scrum master should fix these problems) 
+
+
+	In Agile team, there is no speration of roles, it is cross functional. 
+	What she looks for in a team is diversity—of skill set, thinking, and
+experience.
+
+
+Whenever there are handoffs between teams, there is the opportunity
+for disaster.

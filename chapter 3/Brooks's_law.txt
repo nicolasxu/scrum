@@ -1,0 +1,14 @@
+his seminal book The Mythical Man-Mont
+
+Brooks’s Law says “adding manpower to a late software project
+makes it later.”
+
+Once the teams grew larger than eight, they
+took dramatically longer to get things done.
+Because:
+
+It turns out that the number of
+items one can retain in short-term memory isn’t seven. It’s four.
+
+
+Communication channels = n (n−1)/2.

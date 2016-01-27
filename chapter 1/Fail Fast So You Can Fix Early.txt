@@ -1,0 +1,8 @@
+Fail Fast So You Can Fix Early
+
+Corporate culture often puts more weight
+on forms, procedures, and meetings than on visible value creation
+that can be inspected at short intervals by users. Work that does not
+produce real value is madness. Working product in short cycles
+allows early user feedback and you can immediately eliminate what
+is obviously wasteful effort.

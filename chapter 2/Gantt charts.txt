@@ -1,0 +1,4 @@
+Gantt charts, 
+every task measured out precisely in hours highlighted in
+pretty colors flowing down the page like a waterfall. Those charts were
+beautiful in their precision. They were also complete fabrications.
