@@ -1,0 +1,20 @@
+“Quattro Pro for Windows.”
+
+For the project, one million lines of software code had been
+created. They took thirty-one months to produce and were the output of
+eight people. That means each team member produced one thousand lines
+of code each week.
+
+
+
+Findings:
+The greater the communication saturation—the
+more everyone knows everything—the faster the team.
+
+
+
+So how could we get that kind of saturation on our team? The thing
+that cripples communication saturation is specialization—the number of
+roles and titles in a group.
+
+Daily meeting help solve challenges.

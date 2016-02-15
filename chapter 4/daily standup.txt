@@ -1,0 +1,9 @@
+1. What did you do yesterday to help the team finish the Sprint?
+2. What will you do today to help the team finish the Sprint?
+3. What obstacles are getting in the team’s way?
+
+That’s it. That’s the whole meeting. If it takes more than fifteen
+minutes, you’re doing it wrong.
+
+There’s no assigning of tasks from above—the team is
+autonomous.
