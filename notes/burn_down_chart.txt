@@ -1,0 +1,3 @@
+Burn down chart is used to track project just like gantt chart in traditional method. 
+
+
