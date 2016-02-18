@@ -1,0 +1,28 @@
+1. Sprint plan meeting
+	1) get hours available 
+	2) select sprint backlog
+	3) break user story into tasks 
+	   e.g.: user story A, user story B, user story C
+	         A.1, 5 hours
+	         A.2, 4 hours
+	         A.3, 3 hours
+	         B.1, page layout, 2 hours
+	         B.2, ui dropdown search, 1 hours
+	         B.3, acceptance 4 hours
+	    break sub task into hours less than 8 hours,
+	    each sub sub task should take less than 8 hours,
+	    if more than 8 hours, divide the sub task. 
+	  No task assignment to team members
+	  If team doesn't know about how much time requried, e.g. they are doing sth new, 
+	  then they should spend some time to research the task. Create spikes. 
+
+
+	4) Todo List: Doing List, and Done List
+	5) doing list should have team member name to task 
+	   e.g.: A.2 => John Smith
+	         B.1 => Michael 
+
+2. Daily stand up
+3. Demo
+4. Retropspect -> come up with one item that they will do in the next team. 
+5. Backlog grooming meeting (project owner must be there)

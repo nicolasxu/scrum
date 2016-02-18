@@ -1,7 +1,7 @@
 
-backlog contains: User Stories
-
+1. Product backlog contains: User Stories
+2. Release backlog
+3. Sprint backlog
 Priorities
-
 
 User Stories (independent, negotiable, Valuable, Estimatable, Small, Testable)

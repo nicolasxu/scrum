@@ -4,4 +4,4 @@
 	- Product owner 
 	  (write user story, prioritize user story, encourage and motivate, accept user stories)
 	- Team: team is responsible for monitoring the progress, not individual person. 
-	  (implement the word, self organize, monitor progress, )
+	  (implement the word, self organize, monitor progress, estimate task)
