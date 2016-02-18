@@ -23,6 +23,6 @@
 	         B.1 => Michael 
 
 2. Daily stand up
-3. Demo
+3. Demo (everyone should present)
 4. Retropspect -> come up with one item that they will do in the next team. 
 5. Backlog grooming meeting (project owner must be there)
