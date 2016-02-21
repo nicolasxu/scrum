@@ -4,4 +4,4 @@
 3. Sprint backlog
 Priorities
 
-User Stories (independent, negotiable, Valuable, Estimatable, Small, Testable)
+User Stories (independent, negotiable, Valuable, Estimable, Small, Testable)

@@ -1,0 +1,7 @@
+Find a standard candle, and then use Fibonacci sequence to estimate.
+
+Use ratio to estimate, not absolute hours. 
+
+
+If someone is good-looking, everyone
+assumes that they’re also smart and trustworthy

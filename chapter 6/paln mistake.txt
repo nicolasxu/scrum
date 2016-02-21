@@ -1,0 +1,20 @@
+The mistake was because they made a very basic mistake. They thought they could
+plan everything ahead of time.
+
+Unfortunately, that calculation phase can be a garbage-in/garbage-out
+process.
+
+
+The people involved may be highly intelligent, and yet they typically
+won’t realize that what they’re feeding into their planning charts is a lot of
+wishful thinking.
+
+
+But the key is to refine the plan throughout the project rather than
+do it all up front.
+
+
+Plan in just enough detail to deliver the next increment of
+value, and estimate the remainder of the project in larger chunks.
+
+

@@ -1,0 +1,3 @@
+Is there a Definition of Done, that
+is, everyone agrees on what standards must be met to call
+something “done”?

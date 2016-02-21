@@ -1,0 +1,39 @@
+People think in narratives, in stories. That’s how
+we understand the world.
+
+
+We have an intimate grasp of characters, desires,
+and motivations. Where we get into trouble is when we try to abstract out of
+the main through-line discrete parts and deal with them out of context.
+
+
+user story:
+As a suburban
+commuter …” versus “As a farmer in the South Dakota Badlands … ,”you
+are going to end up with a very different interpretation of what the ideal
+vehicle is.
+
+
+
+Independent. The story must be actionable and “completable” on its own. It
+shouldn’t be inherently dependent on another story.
+
+Negotiable. Until it’s actually being done, it needs to be able to be rewritten.
+Allowance for change is built in.
+
+Valuable. It actually delivers value to a customer or user or stakeholder.
+Estimable. You have to be able to size it.
+
+Small. The story needs to be small enough to be able to estimate and plan
+for easily. If it is too big, rewrite it or break it down into smaller stories.
+
+Testable. The story must have a test it is supposed to pass in order to be
+complete. Write the test before you do the story.
+
+
+We find in real projects that if stories are really Ready, the team
+will double the speed of implementation.
+
+
+Also once you have your velocity, you can figure out the most important
+thing in Scrum: what is keeping you from going faster?
