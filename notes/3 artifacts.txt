@@ -1,7 +1,9 @@
 
 1. Product backlog contains: User Stories
 2. Release backlog
-3. Sprint backlog
+3. Sprint backlog: based on priorities
+
+Make work visible for every backlog and every team member
 Priorities
 
 User Stories (independent, negotiable, Valuable, Estimable, Small, Testable)

@@ -1,0 +1,26 @@
+In Japanese the word used is kaizen, or
+“improvement.”
+
+
+What is the little improvement that can be done right away
+that will make things better?
+
+In Scrum this is captured at the end of each Sprint in what I call the
+“Sprint Retrospective.”
+
+To be effective, this Retrospective meeting requires a certain amount of emotional
+maturity and an atmosphere of trust.
+
+It’s not good
+enough merely to share how you feel; you need to be able to act.
+
+
+“Happiness Metric.”
+1. On a scale from 1 to 5, how do you feel about your role in the
+company?
+2. On the same scale, how do you feel about the company as a
+whole?
+3. Why do you feel that way?
+4. What one thing would make you happier in the next Sprint?
+
+

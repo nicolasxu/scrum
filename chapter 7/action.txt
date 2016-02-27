@@ -1,0 +1,9 @@
+The team takes that one top improvement
+and makes it the most important thing to do in the next Sprint—with
+acceptance tests.
+
+
+
+How can you prove you’ve made that improvement? You need
+to define what success is in a concrete, actionable way, so that in the next
+Sprint Retrospective it’s really easy to see if you achieved the kaizen.

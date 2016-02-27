@@ -1,0 +1,5 @@
+touch time: when project or feature is actually being worked on. 
+
+lead time = touch time + idle time
+
+WIP: working process limit
