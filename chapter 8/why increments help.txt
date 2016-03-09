@@ -1,0 +1,6 @@
+What Scrum does, by delivering a working increment, is give the
+Product Owner the ability to see how much value that increment creates,
+how people react to it.
+
+Then, based on that information, she can change
+what the team will do in the next Sprint.

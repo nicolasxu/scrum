@@ -1,0 +1,13 @@
+1. The Product Owner needs to be knowledgeable about the domain.
+	- understand the process the team is executing well enough to know what can be done and, just as important, what can’t.
+	- has to understand the what well enough to know how to translate what can be done into true, meaningful value. The Product Owner needs to know the market well enough to know what will make a difference.
+
+2. The Product Owner has to be empowered to make decisions. Just
+  as management shouldn’t interfere with the team, the Product Owner
+  should be given the leeway to make decisions about what the product vision
+  will be, and what needs to be done to get there.
+
+3. The Product Owner has to be available to the team, to explain
+  what needs to be done and why.
+
+4. The Product Owner needs to be accountable for value.

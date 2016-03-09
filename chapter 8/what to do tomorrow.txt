@@ -1,0 +1,20 @@
+1. The first step is just putting together a Backlog and a team.
+
+Think about the
+vision you have for your product or service or whatever, and start breaking
+down the things you need to do to execute that vision. You don’t need a
+whole lot—just a week’s worth of Backlog.
+
+
+The key message is that everything is being done in
+the open. Anyone can see where your product is at any time. They can see
+the stories move across the Scrum board to Done.
+
+
+Scrum is designed so that
+you can boot up a team in a couple of days. Get your Backlog, plan your first
+Sprint, and away you go.
+
+DON'T
+You don’t need to devote a lot of time to planning,
+reflection, meditations, mission statements, or five-year projections.

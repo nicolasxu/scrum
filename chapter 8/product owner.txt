@@ -1,0 +1,20 @@
+The Product Owner needed to be
+able to deliver feedback to the team from the customer each and every
+Sprint.
+
+
+They needed to spend half their time talking to the people buying
+the product (getting their thoughts on the latest incremental release and
+how it delivered value) and half their time with the team creating the
+Backlog.
+
+
+But I didn’t want a manager. I wanted someone the team would believe
+and trust when he prioritized the Backlog.
+
+
+
+The Scrum
+Master and the team are responsible for how fast they’re going and how
+much faster they can get. The Product Owner is accountable for translating
+the team’s productivity into value.

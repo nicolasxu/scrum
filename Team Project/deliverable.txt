@@ -1,0 +1,87 @@
+Deliverable: written articles. 
+Number: team member - 1 => 3
+Topic: Each article addresses a sub-topic 
+       or an area within the topic assigned to you
+Requirement: The articles will be distinct and non-overlapping
+Style guide: https://en.wikipedia.org/wiki/Wikipedia:Your_first_article
+
+
+...
+Assignment T4.1: Iteration 1 Demo/Retrospective – 25 points
+Undertaken in Lesson 9
+...
+
+
+Although you have written as many user stories as there are members in your team, you will
+write articles to fulfill all but one user story.
+
+
+Notwithstanding, these are mandatory artifacts in SCRUM projects.
+
+
+
+As mentioned earlier in this document, number of iterations you will have to fully implement
+scope of your project will be 2 (duration of each iteration defined by deadlines described
+above). 
+
+4 things to do in each iteration:
+- Iteration Planning
+- Iteration Work
+- Iteration Demo (in class)
+- Iteration Retrospective (in class)
+
+
+
+
+T1 --------------------
+	TODO:
+	- Persona
+	- User Story
+
+User read the article to understand roughly what agile method is and why it can achieve better result than conventional water fall method. 
+
+
+T2 ---------------------
+	TODO:
+	1. Create Your Backlog
+	2. Define Your Release
+	3. Define Iterations
+  (All on Rally Dev)
+
+
+T3 ---------------------
+	TODO:
+	1. From the Backlog, select stories for adding to the iteration and assign them to 
+	   Iteration 1 in CAAC
+	2. Add outline that you created for the story for each of the stories in CAAC under the
+		 Description field
+	3. Break up each story into tasks, estimate each task, and add these tasks into CAAC as tasks
+		 under the story. You will need to learn how to create tasks under stories in CAAC. 
+	4. Roll up estimates for tasks and enter them as estimates for stories in Plan Est. field.
+
+
+
+T4 ----------------------
+	TODO:
+	1. Complete all tasks for all stories assigned to the iteration 1
+	2. Put your articles in Description field of the relevant user story. 
+	3. Prepare for a demo and a retrospective in class
+	4. Perform iteration planning for next sprint.
+
+T5 -----------------------
+	TODO:
+	1. Complete all tasks for all stories assigned to the iteration. 
+	2. Put the link to your articles in Description field of the relevant user story.
+	3. Fix any issues 
+	4. Prepare for a demo and retrospective
+
+T6 ------------------------
+	TODO:
+	1. Trim final articla
+	   1) Put all your articles in a single MS Word document 
+	   2) Unify style of formatting
+	   3) Make sure that your user story at the beginning
+	   4) Add a Table of Content
+	   5) Put a title page with names of team members 
+	   6) Attach this document in the RELEASE story in CAAC
+	   7) In Description field of the Release story

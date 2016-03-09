@@ -1,0 +1,9 @@
+The key is to look for what slices
+actually hold value—enough value that you can get real feedback on them
+and react in real time.
+
+Toyota developed the Prius from concept to
+delivery in fifteen months, faster than any delivery they’d ever done.
+
+The key is not to have a fully established design at the beginning
+but, rather, to make a functional prototype, then see what you can improve.
